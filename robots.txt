@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciblcoin.github.io/docs-xqeto5/sitemap.xml
